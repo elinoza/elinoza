@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: www.linkedin.com/in/hilalsemercioglu/
 
-- ⚡ Fun fact: There was a time when I was so fascinated by India that I wrote a detailed travelogue about my imaginary trip to the country in a magazine as if I had actually been there.
+- ⚡ Fun fact: There was a time when I was so fascinated by India that I wrote a detailed travelogue about my imaginary trip to the country in a magazine as if I had actually been there. The article was crazy detailed, and people who heard it couldn't believe I'd never actually been there
 
 
 
