@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on refactoring my older projects.
 
-- 🌱 Recently, I've added Vue.js and Tailwind to my learning list.
+- 🌱 Recently, I've added Vue.js,TypeScipt and Tailwind to my learning list.
 
 - 💬 Ask me about React, Redux, Node.js, Express, MongoDB
 
