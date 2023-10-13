@@ -15,20 +15,8 @@
 
 - ⚡ Fun fact: There was a time when I was so fascinated by India that I wrote a detailed travelogue about my imaginary trip to the country in a magazine as if I had actually been there. The article was crazy detailed, and people who heard it couldn't believe I'd never actually been there
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinoza)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elinoza)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=elinoza)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<!--
-**elinoza/elinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: There was a time when I was so fascinated by India that I wrote a detailed travelogue about my imaginary trip to the country in a magazine as if I had actually been there. The article was crazy detailed, and people who heard it couldn't believe I'd never actually been there
--->
