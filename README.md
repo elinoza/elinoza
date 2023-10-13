@@ -18,6 +18,21 @@
 - My hobbies are:
  <br><img src="https://i.pinimg.com/564x/04/ed/2c/04ed2ce868077149f9a30089a91548b9.jpg" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/1028/1028497.png" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/5038/5038781.png" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/201/201644.png" width="50px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUT6eBjawu9Uo85P4O9GMcpZrAHim4CI-Wdw&usqp=CAU" width="50px" />
 
+ ### My recent deployed projects:
+ <br/>The Weather App ---> <a href="weather-app-elinoza.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>
+FE:<a href="https://github.com/elinoza/Weather-App"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+BE:<a href="https://github.com/elinoza/weather-app-be"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+ <br/>The Quiz Game ---> <a href="quiz-fe-elinoza.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>
+FE:<a href="https://github.com/elinoza/quiz-fe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+BE:<a href="https://github.com/elinoza/quiz-be"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+ <br/>The Linkedin Learning Clone ---> <a href="https://e-learning-platform-fe.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>
+FE:<a href="https://github.com/elinoza/e-learning-platform-fe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+BE:<a href="https://github.com/elinoza/e-learning-platform-be"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+ <br/>The Linkedin Clone ---> <a href="linkedin-frontend-peach.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>
+FE:<a href="https://github.com/elinoza/LinkedIn-BW-M6-Frontend"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+BE:<a href="https://github.com/elinoza/Linkedln-BW-M6"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" /></a>
+
+
 
    <hr/>
     <div>
