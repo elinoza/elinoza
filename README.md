@@ -17,7 +17,7 @@
 - My hobbies are:
  <br><img src="https://i.pinimg.com/564x/04/ed/2c/04ed2ce868077149f9a30089a91548b9.jpg" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/1028/1028497.png" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/5038/5038781.png" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/201/201644.png" width="50px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUT6eBjawu9Uo85P4O9GMcpZrAHim4CI-Wdw&usqp=CAU" width="50px" />
 
-<hr/>
+
 
 
 <h3><b> My recent deployed projects:</b></h3>
@@ -26,15 +26,14 @@
  <br/><br/>The Quiz Game👾 ---> The Website: <a href="quiz-fe-elinoza.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>
  Github Links::<a href="https://github.com/elinoza/quiz-fe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
 <a href="https://github.com/elinoza/quiz-be"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
- <br/><br/>The Linkedin Learning Clone <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/LinkedIn_Learning_logo.png" width="70px"/> ---> The Website: <a href="https://e-learning-platform-fe.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a> Github Links::<a href="https://github.com/elinoza/e-learning-platform-fe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
+ <br/><br/>The Linkedin Learning Clone  ---> The Website: <a href="https://e-learning-platform-fe.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a> Github Links::<a href="https://github.com/elinoza/e-learning-platform-fe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
 <a href="https://github.com/elinoza/e-learning-platform-be"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
- <br/><br/>The Linkedin Clone <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" width="70px"/> ---> The Website: <a href="linkedin-frontend-peach.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>Github Links:<a href="https://github.com/elinoza/LinkedIn-BW-M6-Frontend"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a><a href="https://github.com/elinoza/Linkedln-BW-M6"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
+ <br/><br/>The Linkedin Clone  ---> The Website: <a href="linkedin-frontend-peach.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/383/383745.png" width="20px" /></a>Github Links:<a href="https://github.com/elinoza/LinkedIn-BW-M6-Frontend"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a><a href="https://github.com/elinoza/Linkedln-BW-M6"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px" /></a>
+
+<hr/>
+<div>  <image src="https://github-readme-stats.vercel.app/api?username=elinoza&hide=issues&show_icons=true&hide_border=true&theme=slateorange">
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinoza&layout=compact&&theme=slateorange&&hide_border=true"></div>
 
 
-
-    <div>
-  <image src="https://github-readme-stats.vercel.app/api?username=elinoza&hide=issues&show_icons=true&hide_border=true&theme=slateorange">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinoza&layout=compact&&theme=slateorange&&hide_border=true">
-  </div>
   
 
