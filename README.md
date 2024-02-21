@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on refactoring my older projects.
 
-- 🌱 Recently, I've added Vue.js,TypeScipt and Tailwind to my learning list.
+- 🌱 Recently, I've added next.js,TypeScript and Tailwind to my learning list.
 
 - 📫 How to reach me: www.linkedin.com/in/hilalsemercioglu/
 
