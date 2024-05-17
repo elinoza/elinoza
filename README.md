@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on this upcoming minimal daily planner app: https://cloock.co/ which is built with next.js,tailwindcss, typescript.
 
-  -You can hire me !:)
 
 - 📫 How to reach me: www.linkedin.com/in/hilalsemercioglu/
 
