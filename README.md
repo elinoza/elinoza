@@ -9,7 +9,7 @@
 
 
 - My hobbies are:
- <br><img src="https://i.pinimg.com/564x/04/ed/2c/04ed2ce868077149f9a30089a91548b9.jpg" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/1028/1028497.png" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/5038/5038781.png" width="50px" /> <img src="https://cdn-icons-png.flaticon.com/512/201/201644.png" width="50px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUT6eBjawu9Uo85P4O9GMcpZrAHim4CI-Wdw&usqp=CAU" width="50px" />
+ <br><img src="https://i.pinimg.com/564x/04/ed/2c/04ed2ce868077149f9a30089a91548b9.jpg" width="50px" />  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUT6eBjawu9Uo85P4O9GMcpZrAHim4CI-Wdw&usqp=CAU" width="50px" />
 
 
 
