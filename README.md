@@ -1,11 +1,11 @@
 #    Hi 👋 I'm Hilal Semercioğlu
 
-- 🌟a `Frontend Developer` with a passion for building awesome web applications!
+- a `Frontend Developer` with a passion for building awesome web applications!
 
-- 🔭 I’m currently working on this upcoming minimal daily planner app: https://cloock.co/ which is built with next.js,tailwindcss, typescript.
+-  I’m currently working on this upcoming minimal daily planner app: https://cloock.co/ which is built with next.js,tailwindcss, typescript.
 
 
-- 📫 How to reach me: www.linkedin.com/in/hilalsemercioglu/
+-  How to reach me: www.linkedin.com/in/hilalsemercioglu/
 
 
 - My hobbies are:
