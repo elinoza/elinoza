@@ -1,4 +1,4 @@
-#    Hi 👋 I'm Hilal Semercioğlu
+#    Hi 👋 I'm Hilal
 
 - a `Frontend Developer` with a passion for building awesome web applications!
 
