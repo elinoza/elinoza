@@ -4,6 +4,8 @@
 
 -  I’m currently frontend developer at https://mindtown.ai/  and  https://cloock.co/ which is built with next.js,tailwindcss, typescript.
 
+-  For detail information about me:[ https://hilalsemercioglu.com/](https://hilalsemercioglu.com/)
+
 
 -  How to reach me: www.linkedin.com/in/hilalsemercioglu/
 
