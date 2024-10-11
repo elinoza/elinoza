@@ -2,12 +2,13 @@
 
 - a `Frontend Developer` with a passion for building awesome web applications!
 
--  I’m currently frontend developer at https://mindtown.ai/  and  https://cloock.co/ which is built with next.js,tailwindcss, typescript.
+-  I’m currently frontend developer at  <a href="https://mindtown.ai/"  target="_blank">Mindtown.ai</a> and  <a href="https://cloock.co/"  target="_blank">Cloock.co</a>  which is built with next.js,tailwindcss, typescript.
+- 
 
--  For detail information about me:[ https://hilalsemercioglu.com/](https://hilalsemercioglu.com/)
+-  For detail information about me:<a href="https://hilalsemercioglu.com"  target="_blank">My Website</a>
 
 
--  How to reach me: www.linkedin.com/in/hilalsemercioglu/
+-  How to reach me:  <a href="www.linkedin.com/in/hilalsemercioglu/ "  target="_blank">Linkedin</a>
 
 
 
