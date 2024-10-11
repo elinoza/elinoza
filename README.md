@@ -8,7 +8,7 @@
 -  For detail information about me:<a href="https://hilalsemercioglu.com"  target="_blank">My Website</a>
 
 
--  How to reach me:  <a href="www.linkedin.com/in/hilalsemercioglu/ "  target="_blank">Linkedin</a>
+-  How to reach me:  <a href="https://www.linkedin.com/in/hilalsemercioglu/ "  target="_blank">Linkedin</a>
 
 
 
